@@ -6,3 +6,5 @@ I created basically two functions that takes your preferences as arguments and p
 Please refer to the last two cells of the notebook, where you can find the examples and comments of usage of "plotar" and "plotmap2" functions.
 
 Feel free to contribute, this is intended to provide quick analyses for people worldwide.
+
+Make sure you have matplotlib, numpy and plotly libraries installed.
