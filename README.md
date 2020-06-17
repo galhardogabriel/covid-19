@@ -11,7 +11,7 @@ plotar function takes a list of countries, a type of value you want to compare (
 
 plotmap2 function takes the values you want to plot and the projection (provided in last cell comments).
 
-![plotmap2 function](https://i.ibb.co/2tcS8Rv/choropleth.jpg)
+![plotmap2 function](https://i.ibb.co/fqh30Q0/choropleth-readme.png)
 
 Feel free to contribute, this is intended to provide quick analyses for people worldwide.
 
