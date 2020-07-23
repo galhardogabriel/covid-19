@@ -17,4 +17,7 @@ Feel free to contribute, this is intended to provide quick analyses for people w
 
 Make sure you have matplotlib, numpy and plotly libraries installed, I made a file with the environment available (.yml) in case you need it.
 
+![plotmap2 function](https://i.ibb.co/gtSjWGz/q0-WGYl7-CUO.gif)
+
+
 Data collected from EU database.
