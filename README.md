@@ -1,4 +1,7 @@
 # covid-19
+
+DATASET DEPRECATED. REPOSITORY TO BE UPDATED, IT WORKS FOR ANY ANALYSIS WITH TIMESERIES ENDING UP TO 14TH DECEMBER
+
 Data Visualization in a convenient user-friendly format for viewing Covid-19 data Worldwide
 
 I created basically two functions that takes your preferences as arguments and plot it for you.
